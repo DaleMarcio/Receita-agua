@@ -1,0 +1,17 @@
+body {
+  background: #87CEEB;
+}
+
+h1 {
+  text-align: center;
+  color: #4682B4;
+}
+
+p {
+  font-size: 30px;
+  text-align: center;
+}
+
+strong {
+  color: #4682B4;
+}
